@@ -25,11 +25,11 @@ I. BACKGROUND
                                   
 II. BRAINHACK 2019
 
-  1. Dataset: I will use the DICOM data of one pilot particpant from the above study.
+    A. Dataset: I will use the DICOM data of one pilot particpant from the above study.
 
-  2. Tools: I wish to learn more about BIDS and fMRIPrep to organize and preprocess my data respectively. Subsequently, I wish to apply 
+    B. Tools: I wish to learn more about BIDS and fMRIPrep to organize and preprocess my data respectively. Subsequently, I wish to apply 
             Nilearn to analyze my data for HPC ROI and whole brain analyses. Finally, I will use Jupyter to present my analyses.
 
-  3. Deliverables: I hope to complete HPC ROI and whole brain analyses for one pilot participant.
+    C. Deliverables: I hope to complete HPC ROI and whole brain analyses for one pilot participant.
   
-  4. Medium: I hope to use Jupyter to present my analyses.
+    D. Medium: I hope to use Jupyter to present my analyses.
