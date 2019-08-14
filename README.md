@@ -1,8 +1,8 @@
 I. BACKGROUND
   
-  A. Education: I am an incoming Masters student in Psychology at the University of Toronto and Rotman Research Institute, Baycrest. 
+    A. Education: I am an incoming Masters student in Psychology at the University of Toronto and Rotman Research Institute, Baycrest. 
   
-  B. My research: 
+    B. My research: 
        
        1. Goal: It is a task based fMRI study that tests 28 healhy young participants' long term memory recognition of highly similar  
                 scenes and correlate that with differential activation on the long-axis of the hippocampus (HPC) and neocrotical regions. 
