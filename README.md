@@ -1,6 +1,7 @@
 # *I. BACKGROUND*
 
-## A. Education: I am an incoming Masters student in Psychology at the University of Toronto and Rotman Research Institute, Baycrest. 
+## A. Education: 
+### I am an incoming Masters student in Psychology at the University of Toronto and Rotman Research Institute, Baycrest. 
   
 ## B. My research: 
        
@@ -16,10 +17,14 @@
                                   
 # *II. BRAINHACK 2019*
 
-## A. Dataset: I will use the DICOM data of one pilot particpant from the above study.
+## A. Dataset: 
+### I will use the DICOM data of one pilot particpant from the above study.
 
-## B. Tools: I wish to learn more about BIDS and fMRIPrep to organize and preprocess my data respectively. Subsequently, I wish to apply Nilearn to analyze my data for HPC ROI and whole brain analyses. Finally, I will use Jupyter to present my analyses.
+## B. Tools: 
+### I wish to learn more about BIDS and fMRIPrep to organize and preprocess my data respectively. Subsequently, I wish to apply Nilearn to analyze my data for HPC ROI and whole brain analyses. Finally, I will use Jupyter to present my analyses.
 
-## C. Deliverables: I hope to complete HPC ROI and whole brain analyses for one pilot participant.
+## C. Deliverables: 
+### I hope to complete HPC ROI and whole brain analyses for one pilot participant.
   
-## D. Medium: I hope to use Jupyter to present my analyses.
+## D. Medium: 
+### I hope to use Jupyter to present my analyses.
