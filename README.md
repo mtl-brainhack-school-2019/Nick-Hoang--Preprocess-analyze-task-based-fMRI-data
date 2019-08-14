@@ -22,3 +22,14 @@ I. BACKGROUND
 
                         b. fMRI - We use a Siemens Prisma 3T Scanner and our design comprise of 8 runs of Study1,Test1, Study2,Test2, 
                                   Anatomical, Study3,Test3, Study4,Test4. We use SPM8 and MatLab to preprocess and analyze our data.
+                                  
+II. BRAINHACK 2019
+
+  A. Dataset: I will use the DICOM data of one pilot particpant from the above study.
+
+  B. Tools: I wish to learn more about BIDS and fMRIPrep to organize and preprocess my data respectively. Subsequently, I wish to apply 
+            Nilearn to analyze my data for HPC ROI and whole brain analyses. Finally, I will use Jupyter to present my analyses.
+
+  C. Deliverables: I hope to complete HPC ROI and whole brain analyses for one pilot participant.
+  
+  D. Medium: I hope to use Jupyter to present my analyses.
