@@ -1,0 +1,27 @@
+#Run Ubuntu 18.04 (bionic)
+   conda install pybids
+   conda install -c aramislab pybids
+   ls
+   cd /
+   ls
+   cd dev
+   ls
+
+#to access Windows folders from Bash on Ubuntu on Windows > access "mount" folder 
+    cd /mnt/c
+
+#to access my dicom files
+    ls
+    cd Users/hoang/Documents/Scene_fMRI/
+
+#install dcm2bids
+    pip install dcm2bids
+
+#upgrade
+    pip install --upgrade dcm2bids
+
+#help dcm2bids
+    dcm2bids -h
+
+#install dcm2niix
+    conda install -c conda-forge dcm2niix
