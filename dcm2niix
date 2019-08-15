@@ -1,0 +1,5 @@
+cd for_brainhack/
+     ls
+     dcm2bids_helper -d Subject1/ .
+     dcm2niix Subject1
+     dcm2niix.exe Subject1
