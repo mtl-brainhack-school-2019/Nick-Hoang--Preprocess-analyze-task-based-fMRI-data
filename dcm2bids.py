@@ -1,13 +1,15 @@
-#using Anaconda on Win 10 Pro, check my working environment in conda
-ls .\Anaconda3\envs\
-conda create -n bids
+#to access my dicom files
+    ls
+    cd Users/hoang/Documents/Scene_fMRI/
 
-#to activate newly created environ
-conda activate bids
+#install dcm2bids
+    pip install dcm2bids
 
-#install dicom to bids python package
-pip install dcm2bids
-pip install --force dcm2bids
+#upgrade
+    pip install --upgrade dcm2bids
 
-#can NOT run dcm2bids as it opens a new window asking "How do you want to open this file"
-#so try using Ubuntu virtual machine on Win 10 Pro
+#help dcm2bids
+    dcm2bids -h
+
+#install dcm2niix
+    conda install -c conda-forge dcm2niix
