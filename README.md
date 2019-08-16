@@ -27,7 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I will use the DICOM data of one particpant from the above study.
 
 ### B. Tools: 
-First Header  | Second Header
+Tool          | Description
 ------------- | -------------
 BIDS          | organize my DICOMs
 fMRIPrep      | Preprocess my data: slice timing, smoothing, spatial normalization
@@ -47,5 +47,5 @@ Jupyter       | Present my analyses with markdown
 - [x] dcm2niix - convert dicoms to nifti and json files
 - [ ] heudiconv - alternative to dcm2bids
 - [ ] install fMRIPrep via docker
-- [ ] xx
+- [ ] get CanadaCompute account
 - [ ] xx
