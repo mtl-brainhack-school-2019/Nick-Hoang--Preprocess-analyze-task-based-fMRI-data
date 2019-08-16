@@ -43,4 +43,9 @@ Jupyter       | Present my analyses with markdown
 
 ### E. To-Do list:
 - [x] COMMIT TO ONE ENVIRONMENT: UBUNTU! :satisfied:
-- [x] A completed task
+- [] A co
+- [] A co
+- [] A co
+- [] A co
+- [] A co
+- [] A co
