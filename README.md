@@ -28,7 +28,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I will use the DICOM data of one particpant from the above study.
 
 ### B. Tools: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I wish to learn more about BIDS and fMRIPrep to organize and preprocess my data respectively. Subsequently, I wish to apply Nilearn to analyze my data for HPC ROI and whole brain analyses. Finally, I will use Jupyter to present my analyses.
+First Header  | Second Header
+------------- | -------------
+Bids          | organize my DICOMs
+fMRIPrep      | Preprocess my data: dsfdf dfdf sfdf
+Nilearn       | HPC ROI and whole brain analyses
+Jupyter       | Present my analyses with markdown
+
 
 ### C. Deliverables: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hope to complete HPC ROI and whole brain analyses for one pilot participant.
