@@ -14,7 +14,7 @@ I am an incoming Masters student in Psychology at the University of Toronto and 
 * Methodology: 
   * a. Behavioural - We use ePrime, a psychology presentation software, to present different exemplars of a scene        category, such as a bar, to participants at the Encoding (study phase) and then measure their recognition accuracy in responding "Old/Similar/New" to repeated, highly similar, and new scenes at Retrieval (test phase).
   
-  <img src="https://github.com/mtl-brainhack-school-2019/NHoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data/raw/master/SMST%20design%20imageB.png" width=200>
+  <img src="https://github.com/mtl-brainhack-school-2019/NHoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data/raw/master/SMST%20design%20imageB.png" width=800>
   
   * b. fMRI - We use a Siemens Prisma 3T Scanner and our design comprise of 8 runs of Study1,Test1, Study2,Test2, Anatomical, Study3,Test3, Study4,Test4. We use SPM8 and MatLab to preprocess and analyze our data.
                                   
