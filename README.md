@@ -29,7 +29,7 @@
 ### B. Tools: 
 First Header  | Second Header
 ------------- | -------------
-Bids          | organize my DICOMs
+BIDS          | organize my DICOMs
 fMRIPrep      | Preprocess my data: slice timing, smoothing, spatial normalization
 Nilearn       | HPC ROI and whole brain analyses
 Jupyter       | Present my analyses with markdown
@@ -42,10 +42,10 @@ Jupyter       | Present my analyses with markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hope to use Jupyter to present my analyses.
 
 ### E. To-Do list:
-- [x] COMMIT TO ONE ENVIRONMENT: UBUNTU! :satisfied:
-- [] A co
-- [] A co
-- [] A co
-- [] A co
-- [] A co
-- [] A co
+- [x] COMMIT TO ONE ENVIRONMENT: Conda in UBUNTU! :satisfied:
+- [x] dcm2bids - convert dicoms to BIDS
+- [x] dcm2niix - convert dicoms to nifti and json files
+- [ ] heudiconv - alternative to dcm2bids
+- [ ] install fMRIPrep via docker
+- [ ] xx
+- [ ] xx
