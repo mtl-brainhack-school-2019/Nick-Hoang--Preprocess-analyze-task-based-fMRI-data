@@ -37,7 +37,9 @@ Jupyter       | Present my analyses with markdown
 
 
 ### C. Deliverables: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hope to complete HPC ROI and whole brain analyses for one participant.
+* Github markdown of scripts to run BIDS app like fMRIPrep
+* Preprocessed data via fMRIPrep
+* Jupyter notebook of whole brain and HPC ROI analyses via Nilearn
   
 ### D. Medium: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hope to use Jupyter to present my analyses.
