@@ -14,7 +14,7 @@
 * **Hypotheses**: We hypothesized that activation of the Post-HPC will be correlated with recognition accuracy of the many exemplars of a scene category, and the Ant-HPC will be correlated with recognition errors of generalizaing a scene category previously seen.
        
 * **Methodology**: 
-  * i. *Behavioural* - We use ePrime, a psychology presentation software, to present different exemplars of a scene        category, such as a bar, to participants at the Encoding (study phase) and then measure their recognition accuracy in responding "Old/Similar/New" to repeated, highly similar, and new scenes at Retrieval (test phase).
+  * i. **Behavioural** - We use ePrime, a psychology presentation software, to present different exemplars of a scene        category, such as a bar, to participants at the Encoding (study phase) and then measure their recognition accuracy in responding "Old/Similar/New" to repeated, highly similar, and new scenes at Retrieval (test phase).
   
   <img src="https://github.com/mtl-brainhack-school-2019/Nick-Hoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data/raw/master/images/SMST%20design%20imageB.png" width=800>
   
