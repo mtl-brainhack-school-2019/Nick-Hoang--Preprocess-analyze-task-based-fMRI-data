@@ -23,7 +23,7 @@ I am an incoming Masters student in Psychology at the University of Toronto and 
 ## *II. BRAINHACK 2019*
 
 ### A. Dataset: 
-I will use the DICOM data of one pilot particpant from the above study.
+I will use the DICOM data of one particpant from the above study.
 
 ### B. Tools: 
 I wish to learn more about BIDS and fMRIPrep to organize and preprocess my data respectively. Subsequently, I wish to apply Nilearn to analyze my data for HPC ROI and whole brain analyses. Finally, I will use Jupyter to present my analyses.
