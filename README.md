@@ -38,8 +38,8 @@ Jupyter       | Present my analyses with markdown
 
 
 ### C. Deliverables: 
-* Github markdown of scripts to run BIDS app like fMRIPrep
-* Preprocessed data via fMRIPrep
+* Github repository of python scripts to run BIDS apps like fMRIPrep
+* BOLD preprocessed data and images via fMRIPrep
 * Jupyter notebook of whole brain and HPC ROI analyses via Nilearn
   
 ### D. Medium: 
