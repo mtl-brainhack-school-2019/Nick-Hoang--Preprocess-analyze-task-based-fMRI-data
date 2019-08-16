@@ -47,5 +47,5 @@ Jupyter       | Present my analyses with markdown
 - [x] dcm2niix - convert dicoms to nifti and json files
 - [ ] heudiconv - alternative to dcm2bids
 - [ ] install fMRIPrep via docker
-- [ ] get CanadaCompute account (via temp sponsorship from Pierre :wink))
+- [ ] get CanadaCompute account (via temp sponsorship from Pierre :wink:)
 - [ ] xx
