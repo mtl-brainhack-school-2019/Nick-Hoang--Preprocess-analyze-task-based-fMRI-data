@@ -30,7 +30,7 @@
 First Header  | Second Header
 ------------- | -------------
 Bids          | organize my DICOMs
-fMRIPrep      | Preprocess my data: dsfdf dfdf sfdf
+fMRIPrep      | Preprocess my data: slice timing, smoothing, spatial normalization
 Nilearn       | HPC ROI and whole brain analyses
 Jupyter       | Present my analyses with markdown
 
