@@ -35,7 +35,7 @@ GitHub        | modify via push/pull files in my repository
 BIDS          | organize my DICOMs
 fMRIPrep      | Preprocess my data: slice timing, smoothing, spatial normalization
 Nilearn       | HPC ROI and whole brain analyses
-Jupyter       | Present my analyses with markdown
+Jupyter       | Present my analyses and data visualization
 
 
 ### C. Deliverables: 
