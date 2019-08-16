@@ -1,7 +1,8 @@
 ## *I. BACKGROUND*
 
-<### A. Education: 
-<img src="https://github.com/mtl-brainhack-school-2019/Nick-Hoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data/raw/master/images/uoft%20psych%20logo.png">
+### A. Education: 
+<img src="https://github.com/mtl-brainhack-school-2019/Nick-Hoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data/raw/master/images/uoft%20psych%20logo.png" width=200>
+
 I am an incoming Masters student in Psychology at the University of Toronto and Rotman Research Institute, Baycrest. 
   
 ### B. My research: 
