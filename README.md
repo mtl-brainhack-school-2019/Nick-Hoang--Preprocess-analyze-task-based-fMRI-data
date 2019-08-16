@@ -44,7 +44,7 @@ Jupyter       | Present my analyses with markdown
 * Jupyter notebook of whole brain and HPC ROI analyses via Nilearn
   
 ### D. Medium: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hope to use Jupyter to present my analyses.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hope to use Jupyter to present my analyses and data visualization.
 
 ### E. To-Do list:
 - [x] COMMIT TO ONE ENVIRONMENT: Conda in UBUNTU as vm in Win 10 Pro! :satisfied:
