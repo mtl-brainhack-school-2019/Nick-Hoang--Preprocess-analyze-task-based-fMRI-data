@@ -30,6 +30,7 @@
 ### B. Tools: 
 Tool          | Description
 ------------- | -------------
+GitHub        | modify via push/pull files in my repository
 BIDS          | organize my DICOMs
 fMRIPrep      | Preprocess my data: slice timing, smoothing, spatial normalization
 Nilearn       | HPC ROI and whole brain analyses
