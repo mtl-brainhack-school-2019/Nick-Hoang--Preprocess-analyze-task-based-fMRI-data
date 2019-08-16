@@ -48,8 +48,8 @@ Jupyter       | Present my analyses with markdown
 
 ### E. To-Do list:
 - [x] COMMIT TO ONE ENVIRONMENT: Conda in UBUNTU as vm in Win 10 Pro! :satisfied:
-- [x] dcm2bids - convert dicoms to BIDS
-- [ ] input study info into CONFIG file
+- [ ] dcm2bids - convert dicoms to BIDS
+- [ ] input study info into CONFIG file for BIDS
 - [x] dcm2niix - convert dicoms to nifti and json files
 - [ ] heudiconv - alternative to dcm2bids
 - [ ] install fMRIPrep via docker
@@ -57,3 +57,5 @@ Jupyter       | Present my analyses with markdown
 - [ ] fMRIPrep preprocessing: slice timing correction
 - [ ] fMRIPrep preprocessing: smoothing
 - [ ] fMRIPrep preprocessing: spatial normalization
+- [ ] use Nilearn to do whole brain analyses 
+- [ ] use Nilearn to do HPC ROI analyses 
