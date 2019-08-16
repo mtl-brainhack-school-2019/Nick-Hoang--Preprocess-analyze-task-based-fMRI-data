@@ -2,7 +2,6 @@
 
 ### A. Education: 
 <img src="https://github.com/mtl-brainhack-school-2019/Nick-Hoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data/raw/master/images/uoft%20psych%20logo.png" width=200>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an incoming Masters student in Psychology at the University of Toronto and Rotman Research Institute, Baycrest. 
   
 ### B. My research: 
@@ -37,7 +36,11 @@ Jupyter       | Present my analyses with markdown
 
 
 ### C. Deliverables: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hope to complete HPC ROI and whole brain analyses for one pilot participant.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hope to complete HPC ROI and whole brain analyses for one participant.
   
 ### D. Medium: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hope to use Jupyter to present my analyses.
+
+### E. To-Do list:
+- [x] COMMIT TO ONE ENVIRONMENT: UBUNTU! :satisfied:
+- [x] A completed task
