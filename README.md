@@ -1,4 +1,4 @@
-# *I. BACKGROUND*
+## *I. BACKGROUND*
 
 ## A. Education: 
 ### I am an incoming Masters student in Psychology at the University of Toronto and Rotman Research Institute, Baycrest. 
