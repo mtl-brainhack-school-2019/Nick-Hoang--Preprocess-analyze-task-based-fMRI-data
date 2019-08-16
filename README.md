@@ -17,6 +17,8 @@ I am an incoming Masters student in Psychology at the University of Toronto and 
   <img src="https://github.com/mtl-brainhack-school-2019/NHoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data/raw/master/SMST%20design%20imageB.png" width=800>
   
   * b. fMRI - We use a Siemens Prisma 3T Scanner and our design comprise of 8 runs of Study1,Test1, Study2,Test2, Anatomical, Study3,Test3, Study4,Test4. We use SPM8 and MatLab to preprocess and analyze our data.
+  
+  <img src="https://github.com/mtl-brainhack-school-2019/Nick-Hoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data/raw/master/images/fMRI%20task%20design.png" width=800
                                   
 ## *II. BRAINHACK 2019*
 
