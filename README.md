@@ -5,7 +5,7 @@ I am an incoming Masters student in Psychology at the University of Toronto and 
   
 ### B. My research: 
        
-* Goal: It is a task based fMRI study that tests 28 healhy young participants' long term memory recognition of highly similar scenes and correlate that with differential activation on the long-axis of the hippocampus (HPC) and neocrotical regions. 
+* Goal: It is a task based fMRI study that tests 28 healthy young participants' long term memory recognition of highly similar scenes and correlate that with differential activation on the long-axis of the hippocampus (HPC) and neocrotical regions. 
        
 * Current research: Neuroimaging research show that the posterior region of the hippocampus (Post-HPC) is associated with recollection of fine-grained local details; meanwhile the anterior region of the hippocampus (Ant-HPC) is associated with recollection of coarse global details.
  
