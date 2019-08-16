@@ -22,6 +22,7 @@
   
   <img src="https://github.com/mtl-brainhack-school-2019/Nick-Hoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data/raw/master/images/fMRI%20task%20design.png"> 
                                   
+
 ## *II. BRAINHACK 2019*
 
 ### A. Dataset: 
@@ -53,6 +54,6 @@ Jupyter       | Present my analyses with markdown
 - [ ] heudiconv - alternative to dcm2bids
 - [ ] install fMRIPrep via docker
 - [ ] get CanadaCompute account (via temp sponsorship from Pierre :wink:)
-- [ ] fMRIPrep preprocessing: slice timing
+- [ ] fMRIPrep preprocessing: slice timing correction
 - [ ] fMRIPrep preprocessing: smoothing
 - [ ] fMRIPrep preprocessing: spatial normalization
