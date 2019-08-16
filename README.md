@@ -42,10 +42,12 @@ Jupyter       | Present my analyses with markdown
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I hope to use Jupyter to present my analyses.
 
 ### E. To-Do list:
-- [x] COMMIT TO ONE ENVIRONMENT: Conda in UBUNTU! :satisfied:
+- [x] COMMIT TO ONE ENVIRONMENT: Conda in UBUNTU as vm in Win 10 Pro! :satisfied:
 - [x] dcm2bids - convert dicoms to BIDS
 - [x] dcm2niix - convert dicoms to nifti and json files
 - [ ] heudiconv - alternative to dcm2bids
 - [ ] install fMRIPrep via docker
 - [ ] get CanadaCompute account (via temp sponsorship from Pierre :wink:)
-- [ ] xx
+- [ ] fMRIPrep preprocessing: slice timing
+- [ ] fMRIPrep preprocessing: smoothing
+- [ ] fMRIPrep preprocessing: spatial normalization
