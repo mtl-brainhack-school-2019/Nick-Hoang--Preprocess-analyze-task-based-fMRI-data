@@ -49,14 +49,19 @@ Jupyter       | Present my analyses and data visualization
 
 ### E. To-Do list:
 - [x] COMMIT TO ONE ENVIRONMENT: Conda in UBUNTU as vm in Win 10 Pro! :satisfied:
-- [ ] dcm2bids - convert dicoms to BIDS
-- [ ] input study info into CONFIG file for BIDS
-- [x] dcm2niix - convert dicoms to nifti and json files
-- [ ] heudiconv - alternative to dcm2bids
-- [ ] install fMRIPrep via docker
-- [ ] get CanadaCompute account (via temp sponsorship from Pierre :wink:)
-- [ ] fMRIPrep preprocessing: slice timing correction
-- [ ] fMRIPrep preprocessing: smoothing
-- [ ] fMRIPrep preprocessing: spatial normalization
-- [ ] use Nilearn to do whole brain analyses 
-- [ ] use Nilearn to do HPC ROI analyses 
+- [x] Learn to program with Python
+- [x] Dcm2bids - convert dicoms to BIDS
+- [x] Input study info into CONFIG file for BIDS
+- [x] Dcm2niix - convert dicoms to nifti and json files
+- [x] Heudiconv - alternative to dcm2bids
+- [x] Onstall fMRIPrep via docker
+- [x] Get CanadaCompute(CC) account (via temp sponsorship from Pierre :wink:)
+- [x] Submit job via salloc on CC Beluga interactive node 
+- [x] Submit job via sbatch on CC Beluga compute node 
+- [ ] Submit job via salloc & sbatch on CC Cedar interactive & compute node respectively
+- [ ] fMRIPrep preprocessing: get the html file per participant! 
+- [ ] Use Nistats to do first and second level BOLD analyses 
+- [x] Organize my csv data into dataframes via Pandas
+- [x] Visualize my behavioral accuracy data via boxplots in Plotly-dash
+- [x] Present my intro via Powtoon
+- [x] Present my final results in Jupyter Notebook with Rise slideshow plugin
