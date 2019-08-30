@@ -7,8 +7,9 @@
   
 ### B. My research: 
        
-* **Goal**: It is a task based fMRI study that tests 28 healhy young participants' long term memory recognition of highly similar scenes and correlate that with differential activation on the long-axis of the hippocampus (HPC) and neocrotical regions. 
-       
+
+* **Goal**: It is a task based fMRI study that tests 28 healthy young participants' long term memory recognition of highly similar scenes and correlate that with differential activation on the long-axis of the hippocampus (HPC) and neocrotical regions. 
+    
 * **Current** research: Neuroimaging research show that the posterior region of the hippocampus (Post-HPC) is associated with recollection of fine-grained local details; meanwhile the anterior region of the hippocampus (Ant-HPC) is associated with recollection of coarse global details.
  
 * **Hypotheses**: We hypothesized that activation of the Post-HPC will be correlated with recognition accuracy of the many exemplars of a scene category, and the Ant-HPC will be correlated with recognition errors of generalizaing a scene category previously seen.
